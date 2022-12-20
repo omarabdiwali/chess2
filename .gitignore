@@ -14,8 +14,8 @@
 /api/.env
 
 # misc
-._.DS_Store
-/api/._.DS_Store
+.DS_Store
+/api/.DS_Store
 .env.local
 .env.development.local
 .env.test.local
